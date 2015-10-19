@@ -1,5 +1,5 @@
 {
-  "name": "twitter",
+  "name": "Twitter",
   "encoded_embed_code": "%3Ca%20class%3D%22twitter-timeline%22%20href%3D%22https%3A%2F%2Ftwitter.com%2Fhashtag%2F%24%24SEARCHTERM%22%20data-widget-id%3D%22655396133993185283%22%3E%23%24%24SEARCHTERM%20Tweets%3C%2Fa%3E%3Cscript%3E!function(d%2Cs%2Cid)%7Bvar%20js%2Cfjs%3Dd.getElementsByTagName(s)%5B0%5D%2Cp%3D%2F%5Ehttp%3A%2F.test(d.location)%3F%22http%22%3A%22https%22%3Bif(!d.getElementById(id))%7Bjs%3Dd.createElement(s)%3Bjs.id%3Did%3Bjs.src%3Dp%2B%22%3A%2F%2Fplatform.twitter.com%2Fwidgets.js%22%3Bfjs.parentNode.insertBefore(js%2Cfjs)%3B%7D%7D(document%2C%22script%22%2C%22twitter-wjs%22)%3B%3C%2Fscript%3E",
   "image_url": "http://i.imgur.com/IuKq2Oj.png",
   "variables": {
