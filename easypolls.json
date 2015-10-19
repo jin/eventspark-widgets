@@ -1,5 +1,6 @@
 {
   "name": "easypolls",
   "encoded_embed_code": "%3Cscript%20type=%22text/javascript%22%20src=%22http://www.easypolls.net/ext/scripts/emPoll.js?p=56236f6fe4b0eadd945a9c02%22%3E%3C/script%3E%3Ca%20class=%22OPP-powered-by%22%20href=%22https://www.murvey.com%22%20style=%22text-decoration:none;%22%3E%3Cdiv%20style=%22font:%209px%20arial;%20color:%20gray;%22%3Esurvey%20tools%3C/div%3E%3C/a%3E",
-  "image_url": "https://www.easypolls.net/images/logo.png"
+  "image_url": "https://www.easypolls.net/images/logo.png",
+  "variables": {}
 }
