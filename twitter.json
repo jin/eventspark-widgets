@@ -4,6 +4,6 @@
   "image_url": "http://i.imgur.com/IuKq2Oj.png",
   "variables": {
     "Search term": "$$SEARCHTERM",
-    "data-widget-id": "$$DATAWIDGETID"
+    "twitter-widget-id": "$$DATAWIDGETID"
   }
 }
