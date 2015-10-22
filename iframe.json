@@ -1,7 +1,7 @@
 {
   "name": "iframe",
   "encoded_embed_code": "%3Ciframe%20class%3D%22iframe%22%20width%3D%22800%22%20height%3D%22800%22%20src%3D%22%24%24URL%22%20style%3D%22border%3Anone%22%20%3E%3C%2Fiframe%3E",
-  "image_url": "",
+  "image_url": "http://blog.formstack.com/wp-content/uploads/2012/09/iframe1-620x320.jpg",
   "variables": {
     "Website url": "$$URL"
   }
