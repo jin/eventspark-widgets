@@ -1,6 +1,6 @@
 {
   "name": "Chatroom",
-  "encoded_embed_code": "%3Ciframe%20src%3D%22https%3A%2F%2Fkiwiirc.com%2Fclient%2Firc.kiwiirc.com%2F%23%24%24CHANNELNAME%22%20style%3D%22border%3A0%3B%20width%3A100%25%3B%20height%3A100%25%3B%22%3E%3C%2Fiframe%3E",
+  "encoded_embed_code": "%3Ciframe%20width%3D%2210025%22%20height%3D%22auto22%20src%3D%22https%3A%2F%2Fkiwiirc.com%2Fclient%2Firc.kiwiirc.com%2F%23%24%24CHANNELNAME%22%20style%3D%22border%3A0%3B%20width%3A100%25%3B%20height%3A100%25%3B%22%3E%3C%2Fiframe%3E",
   "image_url": "http://www.clipartbest.com/cliparts/dT7/eGE/dT7eGEonc.png",
   "variables": {
     "Channel name": "$$CHANNELNAME"
