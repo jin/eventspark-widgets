@@ -1,0 +1,8 @@
+{
+  "name": "Twitch Past Broadcasts",
+  "encoded_embed_code": "%3Cdiv%20class%3D%E2%80%9Cvideo-container%20no-controls%E2%80%9D%3E%3Ciframe%20src%3D%22http%3A%2F%2Fplayer.twitch.tv%2F%3Fvideo%3Dv%24%24VIDEOURL%E2%80%9D%20frameborder%3D%220%22%20scrolling%3D%22no%22%20height%3D%22378%22%20width%3D%22620%22%3E%3C%2Fiframe%3E%3C%2Fdiv%3E",
+  "image_url": "http://i2.wp.com/pmcvariety.files.wordpress.com/2013/08/twitch-to-livestream-the-e3-event.jpg?crop=0px%2C2px%2C600px%2C334px&resize=670%2C377",
+  "variables": {
+    "Video URL": "$$VIDEOURL"
+  }
+}

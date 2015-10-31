@@ -1,8 +1,8 @@
 {
   "name": "YouTube",
-  "encoded_embed_code": "%3Cdiv%20class%3D%22video-container%22%3E%3Ciframe%20width%3D%22853%22%20height%3D%22480%22%20src%3D%22%2F%2Fwww.youtube.com%2Fembed%2F%24%24URL%3Frel%3D0%22%20frameborder%3D%220%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E",
+  "encoded_embed_code": "%3Cdiv%20class%3D%22video-container%22%3E%3Ciframe%20width%3D%22100%25%22%20height%3D%22auto%22%20src%3D%22%2F%2Fwww.youtube.com%2Fembed%2F%24%24URL%3Frel%3D0%22%20frameborder%3D%220%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E",
   "image_url": "https://pmcvariety.files.wordpress.com/2014/07/youtube-logo-full_color.jpg?w=670&h=377&crop=1",
   "variables": {
-    "url": "$$URL"
+    "Video url": "$$URL"
   }
 }
