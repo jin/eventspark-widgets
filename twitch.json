@@ -1,7 +1,7 @@
 {
   "name": "Twitch Live Stream",
   "encoded_embed_code": "%3Cdiv%20class%3D%22video-container%20no-controls%22%3E%3Ciframe%20src%3D%22http%3A%2F%2Fwww.twitch.tv%2F$$USER%2Fembed%22%20frameborder%3D%220%22%20scrolling%3D%22no%22%20width%3D%22100%25%22%20height%3D%22auto%22%3E%3C%2Fiframe%3E%3C%2Fdiv%3E",
-  "image_url": "http://i2.wp.com/pmcvariety.files.wordpress.com/2013/08/twitch-to-livestream-the-e3-event.jpg?crop=0px%2C2px%2C600px%2C334px&resize=670%2C377",
+  "image_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467761/eventspark/widget-twitch-medium.png",
   "variables": {
     "Twitch username": "$$USER"
   }
