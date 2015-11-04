@@ -4,6 +4,7 @@
   "image_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467761/eventspark/widget-twitch-medium.png",
   "image_thumb_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467277/widget-twitch-small_dc25cg.png",
   "regex": "%5E(%3F%3Ahttps%3F%3A%5C%2F%5C%2F)%3F(%3F%3Awww%5C.)%3Ftwitch(%3F%3A.tv)%5C%2F(%5B%5Cw-%5D*)%5C%2F%3F%24",
+  "placeholder": "Eg. twitch.tv/jasonparadise",
   "variables": {
     "Twitch username": "$$USER"
   }
