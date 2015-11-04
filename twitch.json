@@ -2,6 +2,7 @@
   "name": "Twitch Live Stream",
   "encoded_embed_code": "%3Cdiv%20class%3D%22video-container%20no-controls%22%3E%3Ciframe%20src%3D%22http%3A%2F%2Fwww.twitch.tv%2F$$USER%2Fembed%22%20frameborder%3D%220%22%20scrolling%3D%22no%22%20width%3D%22100%25%22%20height%3D%22auto%22%3E%3C%2Fiframe%3E%3C%2Fdiv%3E",
   "image_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467761/eventspark/widget-twitch-medium.png",
+  "image_thumb_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467277/widget-twitch-small_dc25cg.png",
   "variables": {
     "Twitch username": "$$USER"
   }
