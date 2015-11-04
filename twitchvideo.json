@@ -3,6 +3,7 @@
   "encoded_embed_code": "%3Cdiv%20class%3D%E2%80%9Cvideo-container%20no-controls%E2%80%9D%3E%3Ciframe%20src%3D%22http%3A%2F%2Fplayer.twitch.tv%2F%3Fvideo%3Dv%24%24VIDEOURL%E2%80%9D%20frameborder%3D%220%22%20scrolling%3D%22no%22%20height%3D%22378%22%20width%3D%22620%22%3E%3C%2Fiframe%3E%3C%2Fdiv%3E",
   "image_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467761/eventspark/widget-twitch-medium.png",
   "image_thumb_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467277/widget-twitch-small_dc25cg.png",
+  "regex": "%5E(?:https?://)?(?:www.)?(?:player.)?twitch.tv/(?:%5Bw-%5D*/v/%7C?video=v)(%5B0-9%5D*)/?$",
   "variables": {
     "Video URL": "$$VIDEOURL"
   }
