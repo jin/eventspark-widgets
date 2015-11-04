@@ -3,7 +3,7 @@
   "encoded_embed_code": "%3Cdiv%20class%3D%22video-container%22%3E%3Ciframe%20width%3D%22auto%22%20height%3D%22100%25%22%20src%3D%22%2F%2Fwww.youtube.com%2Fembed%2F%24%24URL%3Frel%3D0%22%20frameborder%3D%220%22%20allowfullscreen%3E%3C%2Fiframe%3E%3C%2Fdiv%3E",
   "image_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467763/eventspark/widget-youtube-medium.png",
   "image_thumb_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467276/widget-youtube-small_zsadnm.png",
-  "regex": "%5E(%3F%3Ahttps%3F%3A%2F%2F)%3F(%3F%3Awww.)%3Fyoutu(%3F%3A.be%7Cbe.com)%2F(%3F%3Awatch%3Fv%3D)%3F(%5Bw-%5D%7B10%2C%7D)",
+  "regex": "%5E(%3F%3Ahttps%3F%3A%5C%2F%5C%2F)%3F(%3F%3Awww%5C.)%3Fyoutu(%3F%3A%5C.be%7Cbe%5C.com)%5C%2F(%3F%3Awatch%5C%3Fv%3D)%3F(%5B%5Cw-%5D%7B10%2C%7D)",
   "variables": {
     "Video url": "$$URL"
   }
