@@ -5,6 +5,7 @@
   "image_thumb_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446467276/widget-youtube-small_zsadnm.png",
   "regex": "%5E(%3F%3Ahttps%3F%3A%5C%2F%5C%2F)%3F(%3F%3Awww%5C.)%3Fyoutu(%3F%3A%5C.be%7Cbe%5C.com)%5C%2F(%3F%3Awatch%5C%3Fv%3D)%3F(%5B%5Cw-%5D%7B10%2C%7D)",
   "placeholder": "Eg. youtube.com/watch?v=xB1D1rueXXE",
+  "tooltip": "Enter a YouTube link to be viewed",
   "variables": {
     "Video ID": "$$vid_id"
   }

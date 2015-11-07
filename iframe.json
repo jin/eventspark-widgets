@@ -5,6 +5,7 @@
   "image_thumb_url": "http://res.cloudinary.com/eventspark3216/image/upload/v1446611643/eventspark/widget_iframe_small.png",
   "regex": "https?://.+",
   "placeholder": "Eg. http://griddit.io",
+  "tooltip": "Enter a website you wish to view",
   "variables": {
     "Website url": "$$URL"
   }
