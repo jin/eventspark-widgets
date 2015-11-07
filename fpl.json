@@ -3,7 +3,7 @@
   "encoded_embed_code": "%3Ciframe%20class%3D%22iframe%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20src%3D%22http%3A%2F%2Fanewpla.net%2Ffpl%2Flive%2F%24%24LIVEFPLID%22%20style%3D%22border%3Anone%3B%22%3E%3C%2Fiframe%3E",
   "image_url": "http://cdn.ismfg.net/static/plfpl/img/fbshare.png",
   "image_thumb_url": "http://www.pkr.com/images/library/5361/257x257xFPL.jpg.pagespeed.ic.4iTqFi9BW0.jpg",
-  "regex": "%5E(%3F%3Ahttps%3F%3A%2F%2F)%3F(%3F%3Awww%5C.)%3Fanewpla%5C.net%2Ffpl%2Flive%2F(%5Bw-%5D%2B)%2F%3F%24",
+  "regex": "%5E(%3F%3Ahttps%3F%3A%5C%2F%5C%2F)%3F(%3F%3Awww%5C.)%3Fanewpla%5C.net%5C%2Ffpl%5C%2Flive%5C%2F(%5B%5Cd-%5D%2B)",
   "placeholder": "Eg. anewpla.net/fpl/live/116",
   "tooltip": "Enter the Live FPL ID from http://anewpla.net/fpl/live/",
   "variables": {
