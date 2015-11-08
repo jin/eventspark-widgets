@@ -1,0 +1,13 @@
+{
+  "name": "Facebook Page with Posts",
+  "encoded_embed_code": "%3Cdiv%20class%3D%22fb-page%22%20data-href%3D%22https%3A%2F%2Fwww.facebook.com%2F%24%24PAGE%22%20data-width%3D%22280%22%20data-hide-cover%3D%22false%22%20data-show-facepile%3D%22false%22%20data-show-posts%3D%22true%22%3E%3C%2Fdiv%3E",
+  "image_url": "",
+  "image_thumb_url": "",
+  "regex": "",
+  "placeholder": "e.g. instagram",
+  "tooltip": "Enter the name of the Facebook page",
+  "variables": {
+    "page": "$$PAGE"
+  },
+  "private_variables": {}
+}
