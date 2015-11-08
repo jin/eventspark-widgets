@@ -1,14 +1,12 @@
 {
   "name": "Facebook Page with Posts",
-  "encoded_embed_code": "%3Cscript%3E%20window.fbAsyncInit%20%3D%20function()%20%7B%20FB.init(%7B%20appId%20%20%20%20%20%20%3A%20%22995254667180083%22%2C%20xfbml%20%20%20%20%20%20%3A%20true%2C%20version%20%20%20%20%3A%20%22v2.5%22%20%7D)%3B%20%7D%3B%20(function(d%2C%20s%2C%20id)%7B%20var%20js%2C%20fjs%20%3D%20d.getElementsByTagName(s)%5B0%5D%3B%20if%20(d.getElementById(id))%20%7Breturn%3B%7D%20js%20%3D%20d.createElement(s)%3B%20js.id%20%3D%20id%3B%20js.src%20%3D%20%22%2F%2Fconnect.facebook.net%2Fen_US%2Fsdk.js%22%3B%20fjs.parentNode.insertBefore(js%2C%20fjs)%3B%20%7D(document%2C%20%22script%22%2C%20%22facebook-jssdk%22))%3B%20%3C%2Fscript%3E%20%3Cdiv%20class%3D%22fb-page%22%20data-href%3D%22https%3A%2F%2Fwww.facebook.com%2F%24%24PAGE%22%20data-width%3D%22%24%24WIDTH%22%20data-height%3D%22%24%24HEIGHT%22%20data-hide-cover%3D%22false%22%20data-show-facepile%3D%22false%22%20data-show-posts%3D%22true%22%3E%3C%2Fdiv%3E",
+  "encoded_embed_code": "%3Cscript%3E%20window.fbAsyncInit%20%3D%20function()%20%7B%20FB.init(%7B%20appId%20%20%20%20%20%20%3A%20%22995254667180083%22%2C%20xfbml%20%20%20%20%20%20%3A%20true%2C%20version%20%20%20%20%3A%20%22v2.5%22%20%7D)%3B%20%7D%3B%20(function(d%2C%20s%2C%20id)%7B%20var%20js%2C%20fjs%20%3D%20d.getElementsByTagName(s)%5B0%5D%3B%20if%20(d.getElementById(id))%20%7Breturn%3B%7D%20js%20%3D%20d.createElement(s)%3B%20js.id%20%3D%20id%3B%20js.src%20%3D%20%22%2F%2Fconnect.facebook.net%2Fen_US%2Fsdk.js%22%3B%20fjs.parentNode.insertBefore(js%2C%20fjs)%3B%20%7D(document%2C%20%22script%22%2C%20%22facebook-jssdk%22))%3B%20%3C%2Fscript%3E%20%3Cdiv%20class%3D%22fb-page%22%20data-href%3D%22https%3A%2F%2Fwww.facebook.com%2F%24%24PAGE%22%20data-width%3D%22280%22%20data-hide-cover%3D%22false%22%20data-show-facepile%3D%22false%22%20data-show-posts%3D%22true%22%3E%3C%2Fdiv%3E",
   "image_url": "",
   "image_thumb_url": "",
   "placeholder": "e.g. instagram",
   "tooltip": "Enter the name of the Facebook page",
   "variables": {
-    "Page": "$$PAGE",
-    "Width": "$$WIDTH",
-    "Height": "$$HEIGHT"
+    "page": "$$PAGE"
   },
   "private_variables": {}
 }
