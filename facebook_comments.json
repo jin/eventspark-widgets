@@ -1,0 +1,12 @@
+{
+  "name": "Facebook Comments Widget",
+  "encoded_embed_code": "%3Cdiv%20class%3D%22fb-comments%22%20data-href%3D%22$$PAGEURL%22%20data-width%3D%22100%25%22%20data-numposts%3D%228%22%3E%3C%2Fdiv%3E",
+  "image_url": "http://sproutsocial.com/insights/wp-content/uploads/2012/01/Comment-Box.jpg",
+  "image_thumb_url": "http://securityaffairs.co/wordpress/wp-content/uploads/2015/02/facebook-comments-hacking-3.png",
+  "placeholder": "Eg. http://projects.nusmods.com/projects/1",
+  "tooltip": "Enter URL of the page",
+  "variables": {
+    "Page URL": "$$PAGEURL"
+  },
+  "private_variables": {}
+}
