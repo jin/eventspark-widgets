@@ -1,6 +1,6 @@
 {
   "name": "Reddit",
-  "encoded_embed_code": "%3Cscript%20src%3D%22//redditjs.com/subreddit.js%22%20data-subreddit%3D%24%24SUBREDDIT%3E%3C/script%3E%0",
+  "encoded_embed_code": "%3Cscript%20src%3D%22//redditjs.com/subreddit.js%22%20data-subreddit%3D%22%24%24SUBREDDIT%22%3E%3C/script%3E%0A",
   "image_url": "http://i.imgur.com/jIrmKce.png",
   "image_thumb_url": "http://i.imgur.com/jIrmKce.png",
   "placeholder": "e.g. worldnews",
