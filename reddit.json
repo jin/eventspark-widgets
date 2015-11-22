@@ -1,0 +1,13 @@
+{
+  "name": "Reddit",
+  "encoded_embed_code": "%3Cscript%20src%3D%22https%3A//www.reddit.com/r/%24%24SUBREDDIT/.embed%3Flimit%3D30%26t%3Dhot%22%20type%3D%22text/javascript%22%3E%3C/script%3E",
+  "image_url": "",
+  "image_thumb_url": "",
+  "regex": "",
+  "placeholder": "e.g. worldnews",
+  "tooltip": "",
+  "variables": {
+    "Subreddit": "$$SUBREDDIT"
+  },
+  "private_variables": {}
+}
